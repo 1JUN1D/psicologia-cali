@@ -1,0 +1,83 @@
+Hola Replit, quiero que desarrolles un sitio web en HTML, CSS y JavaScript (sin frameworks y sin carpetas, todo en la raíz). Esta web es para una Psicóloga en Cali.
+
+📌 Estructura general:
+El archivo principal será: index.html (esta es la home)
+
+Cada categoría secundaria tendrá su propia página:
+
+psicologo-infantil.html
+
+servicio-de-salud-mental.html
+
+psiquiatra.html
+
+psicoterapeuta.html
+
+Cada servicio también tendrá su propia página, como:
+
+psicologa-de-ninos-en-cali.html
+
+terapia-infantil-en-cali.html
+
+psicologo-para-tdah-en-cali.html
+
+(…y los demás)
+
+Total: 17 páginas (1 home + 4 categorías + 12 servicios)
+
+🏗 Contenido de cada página:
+En index.html:
+
+<h1>Psicólogo</h1>
+
+<h2> para cada categoría secundaria
+
+Cada categoría como card o botón → redirige a su página correspondiente
+
+Al final, incluir mapa de Cali con Google Maps embed
+
+Botón flotante de WhatsApp con el número: +57 3126865031
+
+Usa diseño profesional estilo sector salud, limpio, suave, confiable
+
+Usa las fotos que te adjunto para el diseño
+
+En las páginas de categoría:
+
+<h1> con el nombre de la categoría
+
+<h2> para cada servicio listado
+
+Cada servicio con botón o card que lleve a su propia página
+
+En cada página de servicio:
+
+<h1> con el nombre del servicio
+
+Descripción extensa (usa texto simulado si es necesario)
+
+Mencionar barrios de Cali como San Fernando, Ciudad Jardín, Granada, El Ingenio, Aguablanca, etc.
+
+WhatsApp flotante
+
+📄 Estructura de archivos:
+Copiar
+Editar
+index.html
+psicologo-infantil.html
+psicologa-de-ninos-en-cali.html
+terapia-infantil-en-cali.html
+psicologo-para-tdah-en-cali.html
+servicio-de-salud-mental.html
+psicologa-en-cali.html
+terapia-para-ansiedad-en-cali.html
+apoyo-emocional-en-cali.html
+psiquiatra.html
+atencion-psicologica-con-medicacion-en-cali.html
+tratamiento-para-depresion-en-cali.html
+consulta-psiquiatrica-en-cali.html
+psicoterapeuta.html
+terapia-psicologica-en-cali.html
+psicologo-para-adultos-en-cali.html
+terapia-cognitiva-en-cali.html
+Gracias. Usa estructura HTML5 semántica, CSS externo, y JS solo si es necesario.
